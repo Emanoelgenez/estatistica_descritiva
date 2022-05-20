@@ -21,7 +21,7 @@ Este é um repositório de estudos onde eu abordo os métodos mais usuais para a
  * Cálculo da moda 
  * Cálculo de separatrizes
  * Função describe 
- * Plotar média 
+ * Plotagens 
  
 ## 3. Medidas de dispersão 
 
